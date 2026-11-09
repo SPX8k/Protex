@@ -1,0 +1,4 @@
+interface:
+  display_name: "Protex"
+  short_description: "Sichere, eng begrenzte und getestete Codeänderungen"
+  default_prompt: "Nutze Protex. Prüfe zuerst das Projekt, ändere ausschließlich den freigegebenen Bereich, frage vor riskanten Dateioperationen nach und führe passende Tests tatsächlich aus."
